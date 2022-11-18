@@ -1,0 +1,13 @@
+<div class="container__post-content">
+    <img class="post__img" src="{{  photoCover }}" alt=""height="80px">
+
+    <h2 class="post__category">{{ cardCategory }}</h2>
+    
+    <a [routerLink] = "['content',Id]" href="#" class="post__title"> 
+    {{ cardTitle }}
+    </a>
+    <span class="post__date">{{cardDate}}</span>
+
+    <p  [routerLink] ="['content',Id]" class="post__description">{{ cardDescription }}</p>
+
+</div>

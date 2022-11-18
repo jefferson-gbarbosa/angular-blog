@@ -1,0 +1,11 @@
+@media screen and (max-width:480px){
+  .content__cover img{
+    max-width: 300px;
+  }
+}
+@media screen and (max-width:769px){
+  .content__title{
+    text-align: center;
+    font-size: 1rem;
+  }
+}

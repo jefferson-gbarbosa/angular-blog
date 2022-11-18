@@ -1,0 +1,13 @@
+header{
+  display: flex;
+  justify-content: center;
+  /* margin-top: 15px; */
+  background-color: hsl(152, 24%, 32%);
+}
+
+/* footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 0;
+} */

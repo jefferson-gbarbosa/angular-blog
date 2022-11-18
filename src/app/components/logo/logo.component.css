@@ -1,0 +1,10 @@
+.container__logo{
+  margin: 15px;
+  font-size: 3.8rem;
+}
+.container__logo .bx{
+  color: #fff;
+}
+.container__logo a{
+  color: #fff;
+}
